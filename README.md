@@ -1,2 +1,4 @@
 # Github Pages Gallery
-This page makes a Sorcery image gallery for github pages!
+This repo makes a Sorcery image gallery for github pages!
+
+https://xenotropicdev.github.io/sorcery-image-gallery/
