@@ -1,8 +1,8 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "small-size": 2,
-  "large-size": 2,
+  "small-size": 20,
+  "large-size": 100,
   "title": "Sorcery: Contested Realms Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
