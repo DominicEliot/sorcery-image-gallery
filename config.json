@@ -12,6 +12,6 @@
   "css": "./custom.css",
   "footer": "",
   "usage-stats": false,
-  "photo-download": "copy"
-  "photo-preview": "copy"
+  "photo-download": "copy",
+  "photo-preview": "copy",
 }
